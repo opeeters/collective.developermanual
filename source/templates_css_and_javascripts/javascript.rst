@@ -641,6 +641,8 @@ Example code
 
     })(jQuery);
 
+Note: the "oma-kalajoki-button" class in the above example needs to be added to an element containing the <a> element (e.g. a <div>, <span>, <table>, etc.) and not the <a> itself.
+
 AJAX-y view loading
 -------------------
 
